@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pillow
+ultralytics
+keras
+keras-ocr
+tensorflow
+pandas

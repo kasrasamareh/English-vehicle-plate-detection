@@ -1,0 +1,8 @@
+path: 'Path/to/images/folder/'
+train: 'train/'
+val: 'val/'
+test: 'test/'
+
+nc: 1
+names:
+  0: 'Unspecified'
